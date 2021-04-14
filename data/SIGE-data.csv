@@ -1,0 +1,57 @@
+Date,Location,cfu,name,water temp,event
+2018-08-16,Clarens,27,Bioindicator,23.5,No event
+2018-07-16,Clarens,19,Bioindicator,21.9,No event
+2018-06-18,Clarens,2,Bioindicator,20.6,No event
+2018-05-22,Clarens,3,Bioindicator,16.5,No event
+2017-09-04,Clarens,58,Bioindicator,21.2,Event +5
+2017-08-14,Clarens,23,Bioindicator,21.3,Event
+2017-07-11,Clarens,86,Bioindicator,22.1,Event
+2017-06-19,Clarens,5,Bioindicator,21.8,Event
+2017-05-22,Clarens,2,Bioindicator,15.6,Event -2
+2016-09-06,Clarens,78,Bioindicator,21.8,Event +5
+2016-08-08,Clarens,7,Bioindicator,22.5,Event
+2016-07-11,Clarens,,Bioindicator,24.1,Event
+2016-06-20,Clarens,4,Bioindicator,17.1,Event
+2016-05-17,Clarens,23,Bioindicator,13.7,Event -2
+2018-08-16,Chillon,6,Bioindicator,23.8,No event
+2018-07-16,Chillon,3,Bioindicator,21.5,No event
+2018-06-18,Chillon,,Bioindicator,21.3,No event
+2018-05-22,Chillon,,Bioindicator,16.7,No event
+2017-09-04,Chillon,2,Bioindicator,21.2,Event +5
+2017-08-14,Chillon,,Bioindicator,21.4,Event
+2017-07-11,Chillon,24,Bioindicator,22.1,Event
+2017-06-19,Chillon,2,Bioindicator,21.1,Event
+2017-05-22,Chillon,,Bioindicator,17.1,Event -2
+2016-09-06,Chillon,10,Bioindicator,21.7,Event +5
+2016-08-08,Chillon,4,Bioindicator,22.7,Event
+2016-07-11,Chillon,,Bioindicator,23.9,Event
+2016-06-20,Chillon,2,Bioindicator,17.1,Event
+2016-05-17,Chillon,2,Bioindicator,14.2,Event -2
+2018-08-16,Clarens,1,Coliform,23.5,No event
+2018-07-16,Clarens,12,Coliform,21.9,No event
+2018-06-18,Clarens,,Coliform,20.6,No event
+2018-05-22,Clarens,,Coliform,16.5,No event
+2017-09-04,Clarens,10,Coliform,21.2,Event +5
+2017-08-14,Clarens,,Coliform,21.3,Event
+2017-07-11,Clarens,58,Coliform,22.1,Event
+2017-06-19,Clarens,,Coliform,21.8,Event
+2017-05-22,Clarens,4,Coliform,15.6,Event -2
+2016-09-06,Clarens,5,Coliform,21.8,Event +5
+2016-08-08,Clarens,,Coliform,22.5,Event
+2016-07-11,Clarens,,Coliform,24.1,Event
+2016-06-20,Clarens,1,Coliform,17.1,Event
+2016-05-17,Clarens,9,Coliform,13.7,Event -2
+2018-08-16,Chillon,,Coliform,23.8,No event
+2018-07-16,Chillon,4,Coliform,21.5,No event
+2018-06-18,Chillon,,Coliform,21.3,No event
+2018-05-22,Chillon,,Coliform,16.7,No event
+2017-09-04,Chillon,1,Coliform,21.2,Event +5
+2017-08-14,Chillon,,Coliform,21.4,Event
+2017-07-11,Chillon,4,Coliform,22.1,Event
+2017-06-19,Chillon,4,Coliform,21.1,Event
+2017-05-22,Chillon,1,Coliform,17.1,Event -2
+2016-09-06,Chillon,,Coliform,21.7,Event +5
+2016-08-08,Chillon,,Coliform,22.7,Event
+2016-07-11,Chillon,,Coliform,23.9,Event
+2016-06-20,Chillon,1,Coliform,17.1,Event
+2016-05-17,Chillon,1,Coliform,14.2,Event -2
