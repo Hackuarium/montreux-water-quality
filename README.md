@@ -9,5 +9,5 @@ For more information please refer to [http://wiki.hackuarium.ch/w/CBEMresults](h
 <br>
 '''Viva Open Participatory Research!  You can do it, too!'''<br>
 <br>
-![](http://wiki.hackuarium.ch/w/File:Vaucheresign.jpg)
+![](http://wiki.hackuarium.ch/images/a/a3/Vaucheresign.jpg)
 Sign from the beach where the positive control river flows into the lake, June 2016.
