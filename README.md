@@ -13,3 +13,9 @@ For more information please refer to [http://wiki.hackuarium.ch/w/CBEMresults](h
 
 ![Sign from the beach where the positive control river flows into the lake, June 2016.](http://wiki.hackuarium.ch/images/a/a3/Vaucheresign.jpg)
 
+## References
+
+- Article: Participatory research to monitor lake water pollution
+  - Article DOI: 10.1002/2688-8319.12094
+  - Journal: Ecological Solutions and Evidence
+- Zenodo DOI: 10.5281/zenodo.5094576
